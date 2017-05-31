@@ -455,7 +455,7 @@ a{
 }
 
 li img{
-    margin: auto;
+    margin: 0 auto;
 }
 
 .bx-wrapper img{
