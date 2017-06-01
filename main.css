@@ -24,6 +24,7 @@ a.more{
 
 .fl{
     display: -webkit-box;
+    display:-webtit-flex;
     display: -ms-flexbox;
     display: flex;
 }
