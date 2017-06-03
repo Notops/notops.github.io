@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'ALSS';
+    src: url('./fonts/alsschlangeregular.eot');
+    src: url('./fonts/alsschlangeregular.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/alsschlangeregular.woff') format('woff'),
+         url('./fonts/alsschlangeregular.ttf.gz') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Museo';
+    src: url('./fonts/exljbris - Museo Cyrl 300.eot');
+    src: url('./fonts/exljbris - Museo Cyrl 300.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/exljbris - Museo Cyrl 300.woff') format('woff'),
+         url('./fonts/exljbris - Museo Cyrl 300.ttf.gz') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
