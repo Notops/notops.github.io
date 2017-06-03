@@ -1,0 +1,17 @@
+/**
+* Файл style_print.css - файл стилей (версия для печати)
+*
+* @author Дмитрий Щербаков <info@atomcms.ru>
+*/
+
+body{font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;font-size:12px;background:#FFF;color:#000;}
+a img,:link img,:visited img{border:none;}
+a.imglink:visited,a.imglink:link,a.imglink:active,a.imglink:hover{text-decoration:none;border:0px;}
+form label{cursor:pointer;}
+fieldset{border:none;}
+address,abbr{font-style:normal;}
+h1,h2,h3,h4,h5,h6{font-family:"Time New Roman";}
+acronym{border-bottom:#000 1px dotted;cursor:help;}
+a:visited,a:link{color:#000;}
+a:active,a:hover{color:#000;text-decoration:none;}
+#print .header-footer{text-align:center;}
